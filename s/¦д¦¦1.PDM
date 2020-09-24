@@ -1,0 +1,161 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|展开文件 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=G:\1_作品\vb\tank
+
+[Package|展开文件 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|展开文件 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|展开文件 1|Files Found]
+
+[Package|展开文件 1|Files Released]
+
+[Package|展开文件 1|Missing Dependency Information]
+D:\WINDOWS\system32\dx7vb.dll=
+
+[Package|展开文件 1|Out-of-Date Dependency Information]
+
+[Package|展开文件 1|Files Added]
+
+[Package|展开文件 1|Files Removed]
+
+[Package|展开文件 1|Files In Project]
+G:\1_作品\vb\tank\坦克大战.exe=Yes
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\VB6CHS.DLL=Yes
+D:\WINDOWS\system32\dx7vb.dll=Yes
+
+[Package|展开文件 1|Configure Registry Files]
+Applicable=
+
+[Package|展开文件 1|Configure Remote Servers]
+Applicable=
+
+[Package|展开文件 1|Install Locations]
+G:\1_作品\vb\tank\坦克大战.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+D:\WINDOWS\system32\dx7vb.dll=$(WinSysPath)
+
+[Package|展开文件 1|Configure Shared Files]
+Applicable=
+
+[Package|展开文件 1|DepFile]
+DepCabFile=坦克大战.CAB
+DepCabRun=坦克大战.INF
+
+[Package|展开文件 1|Package]
+PackageFolder=G:\1_作品\vb\tank
+ProjectFolder=G:\1_作品\vb\tank
+ServerSideCab=
+File1=G:\1_作品\vb\tank\坦克大战.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\1_作品\vb\tank\包
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+D:\WINDOWS\system32\dx7vb.dll=
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+
+[Package|标准安装软件包 1|Files Added]
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+G:\1_作品\vb\tank\坦克大战.exe=Yes
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\VB6CHS.DLL=Yes
+D:\WINDOWS\system32\dx7vb.dll=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+G:\1_作品\vb\tank\坦克大战.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+D:\WINDOWS\system32\dx7vb.dll=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+G:\1_作品\vb\tank\坦克大战.exe=Yes
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=工程1
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=工程1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|工程1]
+Icon1=坦克大战.exe
+Title1=工程1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=G:\1_作品\vb\tank\包
+ProjectFolder=G:\1_作品\vb\tank
+ServerSideCab=
+File1=G:\1_作品\vb\tank\包\setup.exe
+File2=G:\1_作品\vb\tank\包\Setup.Lst
+File3=G:\1_作品\vb\tank\包\坦克大战.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
